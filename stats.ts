@@ -37,7 +37,6 @@ function mode(numbers: number[]) {
   if (modes.length > 1) {
     return modes;
   }
-  console.log(modes);
   return modes[0];
 }
 
